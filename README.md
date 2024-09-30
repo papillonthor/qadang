@@ -8,7 +8,7 @@
 ## 2. [**기술 스택**](#2)
 ## 3. [**시스템 아키텍처**](#3)
 ## 4. [**주요 기능**](#4)
-## 5. [**팀원 소개**](#5)
+## 5. [**팀 소개**](#5)
 ## 6. [**설계 문서**](#6)
 
 <br />
@@ -205,30 +205,7 @@
 
 <div id="5"></div>
 
-# 👫 팀원 소개 및 프로젝트 기간
-
-<table>
-    <tr>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 👑 임지현 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 🙂 김준섭 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 😆 권근열 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 😁 김보경 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> 
-            <img src="" width="140px" /> <br><br> 🙄 김보라 <br>(Back-End) </a> <br></td>        
-    </tr>
-    <tr>
-        <td align="center">UI/UX<br/>Vue<br/></td>
-        <td align="center">UI/UX<br/>Vue<br/>WebRTC,WebSocket</td>
-        <td align="center">UI/UX<br/>Vue</td>
-        <td align="center">REST API<br/>Spring Boot/Flask<br/>WebRTC,WebSocket<br/>Infra</td>
-        <td align="center">REST API<br/>Spring Boot<br/>Infra</td>        
-    </tr>
-</table>
-
+# 👫 프로젝트 기간
 
 ### 👫 똑똑이들 : 24.1.2 ~ 24.2.16
 
